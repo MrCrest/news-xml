@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Annoucements</title>
+<link>/blog/</link>
+<description>Annoucements for easyDash</description>
+<generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>easyDash 1.08</title>
+<link>easyDash-update-to-1.08.1</link>
+<pubDate>Fri, 17 Nov 2020 00:00:00 -0400</pubDate>
+<guid>easyDash-update-to-1.08.1</guid>
+<description>Welcome to easyDash 1.08 (Grafana 7.1.1). You are using a beta opt-in instance.</description>
+</item>
+</channel>
+</rss>
